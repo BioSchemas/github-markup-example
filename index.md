@@ -11,8 +11,8 @@ So far it is not intended to be used on its onw but as part of a Bioschemas tuto
 * gh-pages-with-markup is the branch where the Bioschemas markup is applied and used
 
 We provide examples for three profiles
-* Dataset, more details for the markup example on the [data page](./data.md)
-* Software, more details for the markup example on the [software page](./software.md)
-* Training materials, more details for the markup example on the [tutorial page](./tutorial.md)
+* Dataset [draft 0.4](https://bioschemas.org/profiles/Dataset/0.4-DRAFT), more details for the markup example on the [data page](./data.md)
+* Computational tool [release 1.0](https://bioschemas.org/profiles/ComputationalTool/1.0-RELEASE), more details for the markup example on the [software page](./software.md)
+* Training materials [draft 0.9](https://bioschemas.org/profiles/TrainingMaterial/0.9-DRAFT-2020_12_08), more details for the markup example on the [tutorial page](./tutorial.md)
 
 **Note:** the current version of the GitHub pages corresponds to gh-pages-basic, i.e., no markup added but only text
