@@ -1,4 +1,2 @@
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
+.jupyter_releaser_checkout
+package-lock.json
