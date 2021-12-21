@@ -15,4 +15,4 @@ We provide examples for three profiles
 * Computational tool [release 1.0](https://bioschemas.org/profiles/ComputationalTool/1.0-RELEASE), more details for the markup example on the [software page](./software.md)
 * Training materials [draft 0.9](https://bioschemas.org/profiles/TrainingMaterial/0.9-DRAFT-2020_12_08), more details for the markup example on the [tutorial page](./tutorial.md)
 
-**Note:** the current version of these GitHub pages corresponds to [gh-pages-basic](https://github.com/BioSchemas/github-markup-example/tree/gh-pages-basic), i.e., no markup added but only text
+**Note:** the current version of these GitHub pages corresponds to [gh-pages-with-markup](https://github.com/BioSchemas/github-markup-example/tree/gh-pages-with-markup), i.e., Bioschemas markup added.
