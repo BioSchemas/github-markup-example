@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<script type="application/ld+json">
+  {{ page.bioschemas | jsonify }}
+</script>
+
+<h1>{{ page.bioschemas.name }}</h1>
+<i>Keywords: {{ page.bioschemas.keywords }}</i></p>
+<p>This tutorial is aimed at:
+  {{page.bioschemas.audience.audienceType}} with a {{page.bioschemas.educationalLevel}} level.
+</p>
+<p>
+  This tutorial is a {{page.bioschemas.learningResourceType}}. By the end of it, {{page.bioschemas.teaches}}.
+</p>
+  <hr/>
+{{ content }}
