@@ -1,2 +1,9 @@
 .jupyter_releaser_checkout
 .ipynb_checkpoints
+
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.ipynb_checkpoints
+Gemfile.lock
