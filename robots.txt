@@ -1,0 +1,1 @@
+Sitemap: https://zbmed-semtec.github.io/bioschemas-github-markup-example/sitemap.xml
