@@ -6,9 +6,13 @@ All branches (main, gh-pages, gh-pages-with-markup) in this repository are creat
 
 So far it is not intended to be used on its onw but as part of a Bioschemas tutorial. The branches are described as follows:
 * main has some dummy code in a Jupyter Notebook that loads a CSV and creates a hello message from one of the rows
-* gh-pages is this branch and fluctuates between gh-pages-basic and gh-pages-with-markup 
+* gh-pages is this branch and fluctuates between gh-pages-basic and gh-pages-with-markup (depending on the tutorial we are using it for)
 * gh-pages-basic is a branch with no markup at all
 * gh-pages-with-markup is the branch where the Bioschemas markup is applied and used
+
+If you want to give it a try on your own, have a look to the slides used during the [SWAT4HCLS 2022 Tutorials](http://www.swat4ls.org/workshops/leiden2022/scientific-programme2022/tutorials/), as part of the ["Bioschemas  – Deploying and Harvesting Markup"](https://bioschemas.org/meetings/2022-01_SWAT4HCLS_leiden). 
+* [Slides in PDF, vr 1.0](./tutorial/Bioschemas markup tutorial.pptx.pdf) 
+* [Slides in PPTX](./tutorial/Bioschemas markup tutorial.pptx), vr. 1.0 (whenever we update the slides, the PPTX version will coincide with the last PDF version)
 
 We provide examples for three profiles
 * Dataset [draft 0.4](https://bioschemas.org/profiles/Dataset/0.4-DRAFT), more details for the markup example on the [data page](./data.md)
